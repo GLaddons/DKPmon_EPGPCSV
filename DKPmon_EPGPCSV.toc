@@ -1,4 +1,4 @@
-## Interface: 40300
+## Interface: 50001
 ## Title: DKPmon_EPGPCSV
 ## Author: Vlorn - now maintained by Guild Launch
 ## Version: 4.0.3
